@@ -8,6 +8,10 @@ A useful Alarm Clock application that informs the user of the current date and t
 
  How to run
 -------------
+If you are running mac, you can run install.sh and then execute.sh directly
+
+Alternatively you can follow something like these instructions
+________________________________________________________________
 I know that this supports java 11 and javafx 11 as is. I'm not sure about other versions. I also tested this on mac so the links below are for mac
 
 To download java 11, go here: https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16.1%2B1/OpenJDK11U-jdk_x64_mac_hotspot_11.0.16.1_1.tar.gz
