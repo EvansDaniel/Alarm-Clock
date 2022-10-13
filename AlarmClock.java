@@ -1,5 +1,3 @@
-package com.company;
-
 import javafx.application.Application;
 import javafx.embed.swing.SwingNode;
 import javafx.geometry.Insets;
@@ -107,7 +105,7 @@ public class AlarmClock extends Application {
                         newTimer.stop();
                         alarmSound = null;
                         try {
-                            alarmSound = new Sound("C:/NewSounds/Sirens.wav");
+                            alarmSound = new Sound("TS_alarm_wav.wav");
                         } catch (IOException
                                 | UnsupportedAudioFileException
                                 | LineUnavailableException e1) {
