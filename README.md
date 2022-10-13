@@ -1,4 +1,4 @@
-# Alarm-Clock-
+# Alarm-Clock
 
 Author - Daniel Evans 
 
